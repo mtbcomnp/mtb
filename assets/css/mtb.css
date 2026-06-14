@@ -1,4 +1,4 @@
-/* mtb.css — downloads page */
+/* mtb.css — Index Page */
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -540,7 +540,7 @@ a:hover { text-decoration: underline; }
 footer{
   text-align: center;
   margin-top: auto;
-  Padding-bottom: 20px;
+  Padding-bottom: 30px;
 }
 
 /* ── RESPONSIVE ──────────────────────────────────────────────────── */
