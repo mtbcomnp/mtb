@@ -536,6 +536,12 @@ a:hover { text-decoration: underline; }
   padding: 0;
   text-decoration: underline;
 }
+/*--------------footer----------------------------------*/
+footer{
+  text-align: center;
+  margin-top: auto;
+  Padding-bottom: 20px;
+}
 
 /* ── RESPONSIVE ──────────────────────────────────────────────────── */
 @media (max-width: 540px) {
