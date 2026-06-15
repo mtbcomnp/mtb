@@ -25,7 +25,7 @@ const RESOURCES = [
   {
     id: 1,
     title: "SkyDate Converter",
-    desc: "Bootstrap 4 portfolio template with navbar, hero, about, services, portfolio, pricing, blog and contact sections.",
+    desc: "A Excel Add-ins files that helps accoutant, aduitor and excel user to quickly convert nepali date to english date i.e. BS to AD or vice versa. ",
     category: "Xlam",
     tags: ["Excel Add-ins", "Date Converter", "AD TO BS", "BS TO AD"],
     downloadUrl: "https://drive.mtb.com.np/Skydateconverter",
