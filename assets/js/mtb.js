@@ -24,7 +24,7 @@
 const RESOURCES = [
   {
     id: 1,
-    title: "Skydate Converter",
+    title: "SkyDate Converter",
     desc: "Bootstrap 4 portfolio template with navbar, hero, about, services, portfolio, pricing, blog and contact sections.",
     category: "Excel Add-ins",
     tags: ["Excel", "Date Converter", "AD TO BS", "BS TO AD"],
