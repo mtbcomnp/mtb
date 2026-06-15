@@ -50,7 +50,7 @@ const RESOURCES = [
     desc: "Drop-in HTML contact form using Web3Forms. No server needed — paste your key and it works.",
     category: "Confirmation Generator",
     tags: ["Party Confirmation Creator", "MS Access"],
-    downloadUrl: "https://mega.nz/file/CrxnCJoB#qG7k3jg6RUtSRa26bSxYqNMzwDmnrVJ3IqPPV7ezgGw",
+    downloadUrl: "https://drive.mtb.com.np/bulkconfirmationgenerator",
     previewUrl: "",
     date: "2024-02-05",
     featured: true,
