@@ -57,7 +57,7 @@ const RESOURCES = [
   },
   {
     id: 4,
-    title: "Busy Nepali Miti",
+    title: "Nepali Miti for Busywin21",
     desc: "Minimal sticky navigation using Bootstrap Affix. Works without a framework on modern setups.",
     category: "BDS FILE",
     tags: ["Nepali Miti", "BDS"],
@@ -81,7 +81,7 @@ const RESOURCES = [
     id: 6,
     title: "Nepali Miti For Tally",
     desc: "Buttons, inputs, dropdowns, navbars, badges, alerts and tables — all in one stylesheet.",
-    category: "Nepali Miti",
+    category: "Tcp",
     tags: ["Tally Add-ons", "TDL"],
     downloadUrl: "https://drive.mtb.com.np",
     previewUrl: "https://drive.mtb.com.np",
