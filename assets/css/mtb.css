@@ -63,12 +63,20 @@ a:hover { text-decoration: underline; }
 }
 
 .nav-logo {
+  display: flex;
+  align-items: center;
   font-size: 1rem;
   font-weight: 700;
   color: var(--text);
   white-space: nowrap;
   text-decoration: none;
   letter-spacing: 0.01em;
+  gap: 8px;
+}
+.nav-logo-img{
+  height: 28px;
+  width: 28px;
+  border-radius: 50%;
 }
 .nav-logo:hover { text-decoration: none; color: var(--accent); }
 
